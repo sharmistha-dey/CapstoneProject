@@ -1,0 +1,50 @@
+footer, .mainavbar 
+{ 
+	background: rgba(0,0,0,0.5);
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 116%;
+    color: #ffffff;
+}
+.mainnavlinks
+{
+	color: #ffffff;
+
+}
+
+.mainnavlinks:hover
+{
+	color: #000000;
+	background-color: rgba(255,255,255,0.5);
+	border-radius: 10px;
+	background-opacity:0.5;
+}
+.mainnavlinks:active
+{
+	color: #000000;
+	background-color: rgba(255,255,255,0.5);
+	border-radius: 10px;
+	background-opacity:0.5;
+}
+
+.history
+{
+	padding: 2% 0;
+	font-family: 'Cinzel', serif;
+	color: #ffffff;
+}
+.history h1
+{
+	
+font-weight: bolder;
+color:#ffffff;
+}
+.history p
+{
+
+	font-size: 135%;
+}
+body
+{
+	background: url("https://cdn.pixabay.com/photo/2017/02/07/09/02/wood-2045379__340.jpg");
+}

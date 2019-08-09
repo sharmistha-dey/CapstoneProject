@@ -1,0 +1,48 @@
+body
+{
+	background: url("https://cdn.pixabay.com/photo/2017/02/07/09/02/wood-2045379__340.jpg");
+/*background: url(https://images.unsplash.com/photo-1519682577862-22b62b24e493?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60);*/	
+background-position: fixed;
+top:0;
+left:0;
+
+z-index:-1;
+
+
+}
+
+footer, .mainavbar 
+{
+	background: rgba(0,0,0,0.5);
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 116%;
+    color: #ffffff;
+}
+.mainnavlinks
+{
+	color: #ffffff;
+
+}
+
+.mainnavlinks:hover
+{
+	color: #000000;
+	background-color: rgba(255,255,255,0.5);
+	border-radius: 10px;
+	background-opacity:0.5;
+}
+
+
+.Intro h1
+{
+font-family: 'Cinzel', serif;
+font-weight: bolder;
+color:#ffffff;
+}
+.Intro p
+{
+font-family: 'PT Serif', serif;
+color:#ffffff;
+font-size: 103%;	
+}
