@@ -7,8 +7,6 @@ top:0;
 left:0;
 
 z-index:-1;
-
-
 }
 
 footer, .mainavbar 
@@ -23,6 +21,12 @@ footer, .mainavbar
 {
 	color: #ffffff;
 
+}
+.Shop h1
+{
+font-family: 'Cinzel', serif;
+font-weight: bolder;
+color:#ffffff;
 }
 
 .mainnavlinks:hover
